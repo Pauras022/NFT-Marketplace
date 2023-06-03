@@ -30,3 +30,14 @@ The development environment for this project utilizes Hardhat, which provides a 
 - Hardhat: Development environment for Ethereum projects.
 - Next.js: React framework for building the user interface.
 - GraphQL: Query language for efficiently managing and retrieving data.
+
+## Screenshots
+
+![Homepage](https://drive.google.com/file/d/1-o0x5lieRIjXFtlur0lh_jYZXhfPwgbt/view?usp=sharing)
+_Homepage of the NFT Marketplace_
+
+![NFT Listing](https://drive.google.com/file/d/1F_BK1QrT5iRn1XTTbGzO27ZN2WbNUQSD/view?usp=sharing)
+_NFT listing page_
+
+![NFT Update listing](https://drive.google.com/file/d/1Sc1xVo7GWaQJNXEVnPSivPRJb--AYMR3/view?usp=sharing)
+_NFT listing update_
