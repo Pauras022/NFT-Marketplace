@@ -33,11 +33,11 @@ The development environment for this project utilizes Hardhat, which provides a 
 
 ## Screenshots
 
-![Homepage](https://drive.google.com/file/d/1-o0x5lieRIjXFtlur0lh_jYZXhfPwgbt/view?usp=sharing)
+![Homepage](https://drive.google.com/uc?export=view&id=1-o0x5lieRIjXFtlur0lh_jYZXhfPwgbt)
 _Homepage of the NFT Marketplace_
 
-![NFT Listing](https://drive.google.com/file/d/1F_BK1QrT5iRn1XTTbGzO27ZN2WbNUQSD/view?usp=sharing)
+![NFT Listing](https://drive.google.com/uc?export=view&id=1F_BK1QrT5iRn1XTTbGzO27ZN2WbNUQSD)
 _NFT listing page_
 
-![NFT Update listing](https://drive.google.com/file/d/1Sc1xVo7GWaQJNXEVnPSivPRJb--AYMR3/view?usp=sharing)
+![NFT Update listing](https://drive.google.com/uc?export=view&id=1Sc1xVo7GWaQJNXEVnPSivPRJb--AYMR3)
 _NFT listing update_
